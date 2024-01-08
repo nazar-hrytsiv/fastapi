@@ -1,0 +1,4 @@
+__pycache__/
+main.py
+library/__pycache__/
+config.py
